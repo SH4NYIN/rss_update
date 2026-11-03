@@ -1,0 +1,12 @@
+{
+  "feeds_file": "feeds.json",
+  "poll_interval_seconds": 120,
+  "request_timeout_seconds": 20,
+  "data_dir": "data",
+  "notifications": true,
+  "naming": {
+    "enabled": false,
+    "timeout_seconds": 90,
+    "wsl_distribution": ""
+  }
+}

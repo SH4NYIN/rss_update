@@ -1,0 +1,8 @@
+[
+  {
+    "id": "deepseek",
+    "name": "DeepSeek 服务状态",
+    "url": "https://status.deepseek.com/feed.rss",
+    "enabled": true
+  }
+]
